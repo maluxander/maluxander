@@ -1,3 +1,3 @@
 
 <p align="center">マルーだ。</p>
-<p align="center"><em>@maluxander</em></p>
+<p align="center" style="color: darkgrey"><em>@maluxander</em></p>
